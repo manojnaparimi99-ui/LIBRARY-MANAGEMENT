@@ -289,8 +289,28 @@ Do NOT delete this file if you want to keep your data
 
 
 
+Screenshots:
 
 
 
 
+<img width="394" height="343" alt="Screenshot 2025-11-22 182208" src="https://github.com/user-attachments/assets/27bec298-09f9-4e21-b76c-a142a6afe9b0" />
 
+
+
+
+<img width="263" height="454" alt="Screenshot 2025-11-22 182424" src="https://github.com/user-attachments/assets/70db8c7c-83d2-41b4-ade2-239724ee69bf" />
+
+
+
+
+<img width="330" height="216" alt="Screenshot 2025-11-22 182505" src="https://github.com/user-attachments/assets/fd61ca45-a0ab-4a27-b51d-a0fcd5fd9e18" />
+
+
+
+
+<img width="334" height="161" alt="Screenshot 2025-11-22 182534" src="https://github.com/user-attachments/assets/51e2dad4-858d-421e-bb8e-e21bc67e49f0" />
+
+
+
+<img width="369" height="95" alt="Screenshot 2025-11-22 182610" src="https://github.com/user-attachments/assets/f3a01367-77b8-4f8d-aca8-d12063251103" />
